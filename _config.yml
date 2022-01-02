@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "JAVA Blog"
+title                    : "JAVA Blog🔥"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "자바맨"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "flyingRKO/flyingrko.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "기록해라" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "기록해라🔥" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,9 +108,9 @@ author:
   location         : "Republic of Korea"
   email            : "wogns970@naver.com"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/flyingrko"
+   # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+     #  url: "https://github.com/flyingrko"
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
