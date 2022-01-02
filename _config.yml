@@ -110,7 +110,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/flyingrko
+      url: "https://github.com/flyingrko"
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
