@@ -13,7 +13,7 @@ toc_sticky: true
 date: 2022-01-07
 last_modified_at: 2022-01-07
 ---
-# 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)
+
 
 ## 접근 제어 지시자 (accesss modifier)
 
