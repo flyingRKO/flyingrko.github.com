@@ -1,5 +1,5 @@
 ---
-title:  "접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)"
+title:  "[java] 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)"
 excerpt: "public, private, protected는 어떨 때 쓰고 getter와 setter메소드는 어떨 때 어떻게 쓰는 건지 알아보자."
 
 categories:
