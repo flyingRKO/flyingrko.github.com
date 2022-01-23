@@ -1,11 +1,11 @@
 ---
-title:  "[spring] 배워서 바로쓰는 스링 프레임워크 5.3.5~5.4.1"
+title:  "[Spring] 배워서 바로쓰는 스링 프레임워크 5.3.5~5.4.1"
 excerpt: ""
 
 categories:
-  - spring
+  - Spring
 tags:
-  - [spring]
+  - [Spring]
 
 toc: true
 toc_sticky: true
