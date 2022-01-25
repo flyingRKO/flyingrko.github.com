@@ -47,7 +47,7 @@ void postProcessBeforeDestruction(Object bean, String beanName)
 - 빈 인스턴스를 만들기 전에 BeanFactoryPostProcessor 실행
 - 요거슨 xml파일에 정의된 다른 모든 빈이 생성되기 전에 생성
 - 그렇기 때문에 다른 빈의 정의를 변경할 기회가 주어짐
-- 얘도 xml에서 정의하면 됨ㅋ❤️❤️
+- 얘도 xml에서 정의하면 됨ㅋ
 
 BeanFactoryPostProcessor 인터페이스에는..
 
@@ -207,8 +207,7 @@ hasPrototypeDependency 메소드 작동 순서
 5. BeanDefinition의 isPrototype을 호출하면 참조되는 빈이 프로토타입 빈인지를 알 수 있다.
 
 ⭐참고하십쇼
-
-![Untitled](%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%2029c303f256a3455ca74cbf344f39f031/Untitled.png)
+![시퀀스 다이어그램](/assets/images/스프링 5-2찐.jpeg)
 
 예제 5-24
 
