@@ -1,5 +1,5 @@
 ---
-title:  "[Spring] 배워서 바로쓰는 스링 프레임워크 5.3.5~5.4.1"
+title:  "[Spring] 배워서 바로쓰는 스프링 프레임워크 5.3.5~5.4.1"
 excerpt: ""
 
 categories:
@@ -207,7 +207,7 @@ hasPrototypeDependency 메소드 작동 순서
 5. BeanDefinition의 isPrototype을 호출하면 참조되는 빈이 프로토타입 빈인지를 알 수 있다.
 
 ⭐참고하십쇼
-![시퀀스 다이어그램](/assets/images/스프링 5-2찐.jpeg)
+![시퀀스 다이어그램](/assets/images/스프링 5-2찐.jpeg){: width="688" height="516"}
 
 예제 5-24
 
