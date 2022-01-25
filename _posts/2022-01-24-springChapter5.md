@@ -260,7 +260,7 @@ ApplicationConfigurer의 postProcessBeanFactory 메소드를 실행하는 것을
 
 🔥 **BeanFactoryPostProcessor 인터페이스를 구현하는 빈이** 
 
-    **BeanPostProcessor 인터페이스를 구현하는 빈보다 먼저 처리된다!**
+**BeanPostProcessor 인터페이스를 구현하는 빈보다 먼저 처리된다!**
 
 이로 인해 BeanPostProcessor를 사용해서 BeanFactoryPostProcessor 인스턴스를 변경할수 없다..
 
