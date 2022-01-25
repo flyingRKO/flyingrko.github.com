@@ -207,7 +207,7 @@ hasPrototypeDependency 메소드 작동 순서
 5. BeanDefinition의 isPrototype을 호출하면 참조되는 빈이 프로토타입 빈인지를 알 수 있다.
 
 ⭐참고하십쇼
-![시퀀스 다이어그램](/assets/images/스프링 5-2찐.jpeg){: width="688" height="516"}
+![시퀀스 다이어그램](/assets/images/스프링 5-2찐.jpeg)
 
 예제 5-24
 
