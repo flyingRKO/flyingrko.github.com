@@ -5,7 +5,7 @@ excerpt: "@Inject와 @Named에 대해 알아보자"
 categories:
   - Spring
 tags:
-  - [Spring, @Inject, @Named]
+  - [Spring, Inject, Named]
 
 toc: true
 toc_sticky: true
